@@ -1,3 +1,3 @@
 # matrix_functions
 
-Programming class assignment.
+Programming class assignment. 
